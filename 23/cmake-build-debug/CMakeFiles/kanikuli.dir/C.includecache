@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+M:/projects/dolgi/23/main.c
+stdio.h
+-
+stdlib.h
+-
+tree.h
+M:/projects/dolgi/23/tree.h
+
+M:/projects/dolgi/23/tree.h
+stdio.h
+-
+stdlib.h
+-
+
