@@ -1,0 +1,7 @@
+Mister Ban 1 1 1 1
+Pozhiloy Fizik 0 1 0 1
+Kuz Egor  0 0 0 0
+Kasimov Magomed 1 1 0 1
+Adolf Hitler 1 0 0 1
+Himmler Heinrich 1 1 0 0
+Goseph Goebbels 0 1 1 1
